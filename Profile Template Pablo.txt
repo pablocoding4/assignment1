@@ -1,0 +1,69 @@
+Create a profile of a place, person, or character; real or fictional
+
+
+DOCTYPE: html
+
+Html area
+
+	Head area
+Title: Profile of Málaga, Spain
+
+Meta tag
+author: Pablo Garcia Gallego
+description: A profile of Málaga, Spain, highlighting its history, culture, and attractions.
+keywords: Málaga, Malaga, Spain, travel, culture, history, tourism, beach, sea
+
+Body area	
+       
+       Header section (Uses an h1 and p tag to add a title and brief description of your profile)
+
+
+       	Heading 1: Málaga, Spain
+       Paragraph: Málaga is a vibrant port city on the Costa del Sol in southern Spain, known for its rich history, stunning architecture, and beautiful Mediterranean beaches.
+       
+       Main section (Uses an h2-3, p, ol, and ul tags to add a section titles and content to your profile)
+       	
+       Section 1
+       Heading 2: History of Málaga
+       		Paragraph: Málaga is one of the oldest cities in the world, founded by the Phoenicians around 770 BC. It has been ruled by various civilizations, including the Romans, Moors, and Christians, each leaving their mark on the city's culture and architecture.
+       
+Section 2
+Heading 2: Culture and Traditions
+       		Paragraph: Málaga is the birthplace of the famous artist Pablo Picasso, and the city is home to several museums dedicated to his work. The city also hosts the annual Feria de Málaga, a lively festival featuring flamenco dancing, traditional music, and local cuisine.
+       	
+Section 3
+Heading 2: Top Attractions
+       		Ordered list
+1. Alcazaba - A Moorish fortress with stunning views of the city.
+2. Málaga Cathedral - Known as "La Manquita," it is a masterpiece of Renaissance architecture.
+3. Picasso Museum - Houses an extensive collection of Picasso's works.
+Section 4
+Heading 3: Local Cuisine
+       		Unordered list
+? Espetos de Sardinas - Grilled sardines, a local delicacy. 
+? Gazpacho - A cold tomato soup perfect for hot summer days. 
+? Porra Antequerana - A thicker version of gazpacho, typical of the region.
+
+Section 5
+Heading 3: Gallery
+       Image 1: Alcazaba Fortress
+       
+       Image 2: Málaga Cathedral
+       
+       Image 3: Beach in Málaga
+       
+
+       footer section
+       	paragraph: (c) 2025 Pablo García. All rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
