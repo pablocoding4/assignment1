@@ -1,41 +1,74 @@
 Create a profile of a place, person, or character; real or fictional
 
+Assignment Requirements:
+Items
+Points
+Proper html document setup, include title and semantic structure x
+
+10
+Include meta author, keywords, and description tags x
+
+10
+Include heading tags for your different sections ie. h1, h2, h3, h4, h5, or h6 
+
+10
+Include one HTML comment x
+
+10
+Include ordered and unordered list x
+
+10
+Include 2 hyperlinks (<a> tags) x
+
+10
+Include the em or strong tags twice 
+
+10
+Include 3 images (and 1 video Optional) x
+
+10
+Explore using Text Level tag (Inline HTML Tags) , include 1 tag (except strong or em)
+
+10
+Use semantic tags appropriately (sections, article, headings, address, etc)
+10
+
 
 DOCTYPE: html
 
 Html area
 
 	Head area
-Title: Profile of Málaga, Spain
+Title: Profile of Malaga, Spain
 
 Meta tag
 author: Pablo Garcia Gallego
-description: A profile of Málaga, Spain, highlighting its history, culture, and attractions.
-keywords: Málaga, Malaga, Spain, travel, culture, history, tourism, beach, sea
+description: A profile of Malaga, Spain, highlighting its history, culture, and attractions.
+keywords: Malaga, Malaga, Spain, travel, culture, history, tourism, beach, sea
 
 Body area	
        
        Header section (Uses an h1 and p tag to add a title and brief description of your profile)
 
 
-       	Heading 1: Málaga, Spain
-       Paragraph: Málaga is a vibrant port city on the Costa del Sol in southern Spain, known for its rich history, stunning architecture, and beautiful Mediterranean beaches.
+       	Heading 1: Malaga, Spain
+       Paragraph: Malaga is a vibrant port city on the Costa del Sol in southern Spain, known for its rich history, stunning architecture, and beautiful Mediterranean beaches.
        
        Main section (Uses an h2-3, p, ol, and ul tags to add a section titles and content to your profile)
        	
        Section 1
-       Heading 2: History of Málaga
-       		Paragraph: Málaga is one of the oldest cities in the world, founded by the Phoenicians around 770 BC. It has been ruled by various civilizations, including the Romans, Moors, and Christians, each leaving their mark on the city's culture and architecture.
+       Heading 2: History of Mï¿½laga
+       		Paragraph: Mï¿½laga is one of the oldest cities in the world, founded by the Phoenicians around 770 BC. It has been ruled by various civilizations, including the Romans, Moors, and Christians, each leaving their mark on the city's culture and architecture.
        
 Section 2
 Heading 2: Culture and Traditions
-       		Paragraph: Málaga is the birthplace of the famous artist Pablo Picasso, and the city is home to several museums dedicated to his work. The city also hosts the annual Feria de Málaga, a lively festival featuring flamenco dancing, traditional music, and local cuisine.
+       		Paragraph: Mï¿½laga is the birthplace of the famous artist Pablo Picasso, and the city is home to several museums dedicated to his work. The city also hosts the annual Feria de Mï¿½laga, a lively festival featuring flamenco dancing, traditional music, and local cuisine.
        	
 Section 3
 Heading 2: Top Attractions
        		Ordered list
 1. Alcazaba - A Moorish fortress with stunning views of the city.
-2. Málaga Cathedral - Known as "La Manquita," it is a masterpiece of Renaissance architecture.
+2. Mï¿½laga Cathedral - Known as "La Manquita," it is a masterpiece of Renaissance architecture.
 3. Picasso Museum - Houses an extensive collection of Picasso's works.
 Section 4
 Heading 3: Local Cuisine
@@ -48,13 +81,13 @@ Section 5
 Heading 3: Gallery
        Image 1: Alcazaba Fortress
        
-       Image 2: Málaga Cathedral
+       Image 2: Mï¿½laga Cathedral
        
-       Image 3: Beach in Málaga
+       Image 3: Beach in Mï¿½laga
        
 
        footer section
-       	paragraph: (c) 2025 Pablo García. All rights reserved.
+       	paragraph: (c) 2025 Pablo Garcï¿½a. All rights reserved.
 
 
 
