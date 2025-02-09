@@ -9,7 +9,7 @@ Proper html document setup, include title and semantic structure x
 Include meta author, keywords, and description tags x
 
 10
-Include heading tags for your different sections ie. h1, h2, h3, h4, h5, or h6 
+Include heading tags for your different sections ie. h1, h2, h3, h4, h5, or h6 x
 
 10
 Include one HTML comment x
@@ -21,16 +21,16 @@ Include ordered and unordered list x
 Include 2 hyperlinks (<a> tags) x
 
 10
-Include the em or strong tags twice 
+Include the em or strong tags twice x
 
 10
 Include 3 images (and 1 video Optional) x
 
 10
-Explore using Text Level tag (Inline HTML Tags) , include 1 tag (except strong or em)
+Explore using Text Level tag (Inline HTML Tags) , include 1 tag (except strong or em) x
 
 10
-Use semantic tags appropriately (sections, article, headings, address, etc)
+Use semantic tags appropriately (sections, article, headings, address, etc) x
 10
 
 
