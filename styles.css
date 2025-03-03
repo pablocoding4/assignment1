@@ -1,3 +1,18 @@
+/* Font Classes */
+.montserrat-text {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.lora-text {
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
 /* Global Styles */
 * {
     margin: 0;
@@ -52,8 +67,12 @@ nav a:hover {
     color: #3498db;
 }
 
-/* Typography */
+/* Typography with Montserrat */
 h1 {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
     font-size: 3rem;
     color: #2c3e50;
     text-align: center;
@@ -62,12 +81,24 @@ h1 {
 }
 
 h2 {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
     font-size: 2rem;
     color: #34495e;
     margin: 2.5rem 0 1.5rem 0;
     border-bottom: 3px solid #3498db;
     padding-bottom: 0.5rem;
     width: fit-content;
+}
+
+/* Gallery */
+h2.gallery-title {
+    text-align: center;
+    width: 100%;  
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* Sections */
@@ -125,10 +156,23 @@ figure img {
 }
 
 figcaption {
-    padding: 1rem;
+    padding: 1.2rem 1rem;
     text-align: center;
-    font-weight: 500;
-    color: #2c3e50;
+    font-weight: 400;
+    color: #5f6c7b;
+    font-size: 0.95rem;
+    letter-spacing: 0.2px;
+    line-height: 1.4;
+    background-color: #fafbfc;
+    border-top: 1px solid #f0f2f5;
+}
+
+/* Apply Lora to all paragraphs */
+p {
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }
 
 /* Links */
@@ -185,4 +229,9 @@ footer {
     figure img {
         height: 200px;
     }
+}
+
+/* Add smooth scrolling */
+html {
+    scroll-behavior: smooth;
 }
